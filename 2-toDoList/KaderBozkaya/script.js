@@ -1,4 +1,4 @@
-/*ekle butonuna tıklandığında yapılak istenen: */
+
 
 let EkleButonu= document.getElementById('TDekle')
 let ParagrafKismi= document.getElementById('ToDoID')
