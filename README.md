@@ -5,3 +5,7 @@ ybsmezunu Teknoloji Takımlarından biri olan frontend takımının tüm çalı�
 detaylar 
 instagram.com/ybsmezunu
 www.ybsmezunu.com adresinde.
+
+
+
+[Ayşegül Direnç](https://github.com/ayseguldirenc16)
