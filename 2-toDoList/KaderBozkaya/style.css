@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: blanchedalmond;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+#title{
+    text-align: center;
+    font-size: 50px;
+    color: #a26678;
+}
+
+
+#InputText{
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border: 3px solid rgb(193, 130, 151);
+    border-radius: 15px;
+    color: palevioletred;
+}
+
+#TDekle{
+    height: 45px;
+    width: 80px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 25px;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    border-color: navajowhite;
+    background: #d44a74;
+    font-size: medium;
+    color: #FFD1DC;
+}
+
+#TDcikar {
+    height: 45px;
+    width: 80px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 25px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 10px;
+    border-color: navajowhite;
+    background: #9e2e50;
+    font-size: medium;
+    color: #FFD1DC;
+}
+
+#clearToDo:active{
+    background: #000;
+}
+
+.paragrafStili{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;
+    text-transform: capitalize;
+    color: rgb(225, 105, 145);
+}
+
+.ToDoList{
+    margin-top: 25px;
+}
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: blanchedalmond;
+}
+.container {
+    width: 100px;
+    text-align: center; 
+    margin-top: 100px;   
+}
+#title {
+    text-align:center;
+    text-align: left;
+    color: #d8154f;
+    
+    
+}
+
+#InputText {
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border: 3px solid #FFD1DC;
+    border-radius: 15px;
+}
+
+#TDekle {
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: navajowhite;
+    background: #d44a74;
+    font-size: medium;
+    color: #FFD1DC;
+    vertical-align: middle;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    
+}
+#TDcikar {
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: navajowhite;
+    background: #d8154f;
+    font-size: medium;
+    color: #FFD1DC;
+    vertical-align: middle;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+}
+.ToDoList{
+    margin-top: 25px;
+}
+.paragrafStili {
+    margin:0;
+    cursor: pointer;
+    font-size: 35px;
+    color: #d44a74;
+    text-transform: capitalize; /*baş harf büyük*/
+
+ 
